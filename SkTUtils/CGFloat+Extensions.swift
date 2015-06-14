@@ -19,7 +19,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-
+// SKTUtils 1.0.2
+//fixed SKTUtils bugs by peter
+//fixed SKTUtils bugs by tom
 import CoreGraphics
 
 /** The value of π as a CGFloat */
