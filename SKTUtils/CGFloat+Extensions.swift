@@ -21,6 +21,7 @@
  */
 // SKTUtils 1.0.2
 //fixed SKTUtils bugs by peter
+//fixed SKTUtils bugs by tom
 import CoreGraphics
 
 /** The value of π as a CGFloat */
