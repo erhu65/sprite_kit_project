@@ -4,7 +4,7 @@
 //
 //  Created by Marin Todorov on 4/9/15.
 //  Copyright (c) 2015 Razeware ltd. All rights reserved.
-// main projecet 1.0.2
+// main projecet 1.0.3
 
 import UIKit
 
