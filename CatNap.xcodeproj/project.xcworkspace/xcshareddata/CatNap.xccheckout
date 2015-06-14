@@ -12,20 +12,24 @@
 	<dict>
 		<key>0D2BA921FA406EFD2431CF1F5E35297B97CE7236</key>
 		<string>github.com:erhu65/ios_game_by_tutorial_second_edition.git</string>
+		<key>C57521F2A51E648C420C8B121E3563EC744161C3</key>
+		<string>github.com:erhu65/sprite_kit_project.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CatNap.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0D2BA921FA406EFD2431CF1F5E35297B97CE7236</key>
+		<string>../../../git</string>
+		<key>C57521F2A51E648C420C8B121E3563EC744161C3</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:erhu65/ios_game_by_tutorial_second_edition.git</string>
+	<string>github.com:erhu65/sprite_kit_project.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0D2BA921FA406EFD2431CF1F5E35297B97CE7236</string>
+	<string>C57521F2A51E648C420C8B121E3563EC744161C3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>0D2BA921FA406EFD2431CF1F5E35297B97CE7236</string>
 			<key>IDESourceControlWCCName</key>
 			<string>git</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C57521F2A51E648C420C8B121E3563EC744161C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sprite_kit_project</string>
 		</dict>
 	</array>
 </dict>
